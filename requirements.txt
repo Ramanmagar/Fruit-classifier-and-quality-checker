@@ -14,9 +14,9 @@ gast==0.2.2
 google-auth==1.19.2
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
-grpcio==1.30.0
+grpcio
 gunicorn==20.0.4
-h5py
+h5py==3.7.0
 idna==2.10
 importlib-metadata==1.6.0
 itsdangerous==1.1.0

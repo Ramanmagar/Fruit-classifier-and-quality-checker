@@ -29,8 +29,8 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib==3.3.0
 numpy==1.18.5
-oauthlib
-opencv-python==4.3.0.36
+oauthlib==3.2.2
+opencv-python
 opt-einsum==3.3.0
 pickleshare==0.7.5
 Pillow==7.2.0

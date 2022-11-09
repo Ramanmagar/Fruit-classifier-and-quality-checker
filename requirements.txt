@@ -38,13 +38,13 @@ protobuf==3.12.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyparsing==3.0.9
-python-dateutil
+python-dateutil==2.8.2
 regex==2020.5.14
 requests==2.24.0
 requests-oauthlib==1.3.0
 rsa==4.6
 six==1.15.0
-tensorflow==2.3.1
+tensorflow
 urllib3==1.25.10
 virtualenv==20.0.17
 Werkzeug==1.0.1
